@@ -16,7 +16,7 @@ SpinalForgeExtention.registerExtention("context_linker", extention);
 class GenerateGeoContextApp extends SpinalContextApp {
   constructor() {
     super("Link 2 contexts", "Links 2 contexts", {
-      icon: "build",
+      icon: "link",
       icon_type: "in",
       backgroundColor: "rgba(0, 0, 0, 0)",
       fontColor: "#FFFFFF"
