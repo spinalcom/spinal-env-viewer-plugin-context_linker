@@ -1,14 +1,14 @@
 {
   "name": "spinal-env-viewer-plugin-context_linker",
-  "version": "0.2.2",
-  "description": "",
+  "version": "0.2.3",
+  "description": "Links two nodes in two contexts",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "SpinalCom",
+  "license": "SpinalCom Free Software License Agreement",
   "browserify": {
     "transform": [
       "vueify"
