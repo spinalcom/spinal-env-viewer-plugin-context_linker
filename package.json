@@ -1,6 +1,6 @@
 {
   "name": "spinal-env-viewer-plugin-context_linker",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "",
   "main": "index.js",
   "scripts": {
