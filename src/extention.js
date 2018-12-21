@@ -16,7 +16,7 @@ const extention = SpinalForgeExtention.createExtention({
   },
   style: {
     left: "405px",
-    width: "420px",
+    width: "800px",
     height: "80vh"
   },
   onLoad() {},
